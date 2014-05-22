@@ -31,6 +31,7 @@ public class MainView implements ActionListener {
 	private JButton  btn ;
 	private JScrollPane scrollPane ;
 	private JLabel l1;
+        
 	
 	public MainView(){
 		
